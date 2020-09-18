@@ -1,7 +1,7 @@
 # GObject-Reference-Manual-zhCN
 Provide Chinese translation of GObject Reference Manual
 
-- [ ] 介绍
+- [ ] [介绍](docs/pr01.md)
 - [ ] 一、概念
   - [ ] 背景
     - [ ] 数据类型和编程
